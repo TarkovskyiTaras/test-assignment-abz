@@ -1,0 +1,4621 @@
+[
+	{
+		"date": "01.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 26.9182,
+				"purchaseRateNB": 26.9182
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.812,
+				"purchaseRateNB": 23.812
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.7042,
+				"purchaseRateNB": 14.7042
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.52,
+				"purchaseRateNB": 29.52
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.4,
+				"purchaseRate": 44.73,
+				"saleRateNB": 44.9466,
+				"purchaseRateNB": 44.9466
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.5702,
+				"purchaseRateNB": 5.5702
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.75,
+				"purchaseRate": 1.72,
+				"saleRateNB": 1.7297,
+				"purchaseRateNB": 1.7297
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.8017,
+				"purchaseRateNB": 5.8017
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44,
+				"purchaseRate": 43,
+				"saleRateNB": 43.2658,
+				"purchaseRateNB": 43.2658
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 51.73,
+				"purchaseRate": 50.97,
+				"saleRateNB": 51.1382,
+				"purchaseRateNB": 51.1382
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.109478,
+				"purchaseRateNB": 0.109478
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 10.774,
+				"purchaseRateNB": 10.774
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25186,
+				"purchaseRateNB": 0.25186
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.085563,
+				"purchaseRateNB": 0.085563
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.255,
+				"purchaseRateNB": 2.255
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7962,
+				"purchaseRateNB": 3.7962
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.2,
+				"purchaseRate": 10.03,
+				"saleRateNB": 10.041,
+				"purchaseRateNB": 10.041
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8061,
+				"purchaseRateNB": 3.8061
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 29.8291,
+				"purchaseRateNB": 29.8291
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2308,
+				"purchaseRateNB": 1.2308
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 40.85,
+				"purchaseRate": 40.25,
+				"saleRateNB": 40.4542,
+				"purchaseRateNB": 40.4542
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 94428.6,
+				"purchaseRateNB": 94428.6
+			}
+		]
+	},
+	{
+		"date": "02.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.1199,
+				"purchaseRateNB": 27.1199
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.9221,
+				"purchaseRateNB": 23.9221
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.7722,
+				"purchaseRateNB": 14.7722
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.689,
+				"purchaseRateNB": 29.689
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.28,
+				"purchaseRate": 44.62,
+				"saleRateNB": 45.0919,
+				"purchaseRateNB": 45.0919
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.5917,
+				"purchaseRateNB": 5.5917
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.745,
+				"purchaseRate": 1.715,
+				"saleRateNB": 1.7441,
+				"purchaseRateNB": 1.7441
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.8571,
+				"purchaseRateNB": 5.8571
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.1,
+				"purchaseRate": 43.1,
+				"saleRateNB": 43.6853,
+				"purchaseRateNB": 43.6853
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 51.7,
+				"purchaseRate": 50.93,
+				"saleRateNB": 51.5149,
+				"purchaseRateNB": 51.5149
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.110772,
+				"purchaseRateNB": 0.110772
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 10.8368,
+				"purchaseRateNB": 10.8368
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25227,
+				"purchaseRateNB": 0.25227
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.085748,
+				"purchaseRateNB": 0.085748
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.2729,
+				"purchaseRateNB": 2.2729
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8249,
+				"purchaseRateNB": 3.8249
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.18,
+				"purchaseRate": 10,
+				"saleRateNB": 10.1601,
+				"purchaseRateNB": 10.1601
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8443,
+				"purchaseRateNB": 3.8443
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 29.9825,
+				"purchaseRateNB": 29.9825
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2438,
+				"purchaseRateNB": 1.2438
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41,
+				"purchaseRate": 40.4,
+				"saleRateNB": 40.6413,
+				"purchaseRateNB": 40.6413
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 95014.48,
+				"purchaseRateNB": 95014.48
+			}
+		]
+	},
+	{
+		"date": "03.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8092,
+				"purchaseRateNB": 3.8092
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.27,
+				"purchaseRate": 10.1,
+				"saleRateNB": 10.0983,
+				"purchaseRateNB": 10.0983
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.825,
+				"purchaseRateNB": 3.825
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 29.9946,
+				"purchaseRateNB": 29.9946
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2462,
+				"purchaseRateNB": 1.2462
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41,
+				"purchaseRate": 40.4,
+				"saleRateNB": 40.7476,
+				"purchaseRateNB": 40.7476
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 94567.44,
+				"purchaseRateNB": 94567.44
+			},
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.0972,
+				"purchaseRateNB": 27.0972
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.9734,
+				"purchaseRateNB": 23.9734
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.8108,
+				"purchaseRateNB": 14.8108
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.6691,
+				"purchaseRateNB": 29.6691
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.4,
+				"purchaseRate": 44.73,
+				"saleRateNB": 45.0848,
+				"purchaseRateNB": 45.0848
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6038,
+				"purchaseRateNB": 5.6038
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.75,
+				"purchaseRate": 1.72,
+				"saleRateNB": 1.7343,
+				"purchaseRateNB": 1.7343
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.8582,
+				"purchaseRateNB": 5.8582
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.2,
+				"purchaseRate": 43.2,
+				"saleRateNB": 43.6977,
+				"purchaseRateNB": 43.6977
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 52.06,
+				"purchaseRate": 51.3,
+				"saleRateNB": 51.5559,
+				"purchaseRateNB": 51.5559
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.110355,
+				"purchaseRateNB": 0.110355
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 10.8115,
+				"purchaseRateNB": 10.8115
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25213,
+				"purchaseRateNB": 0.25213
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086222,
+				"purchaseRateNB": 0.086222
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.2808,
+				"purchaseRateNB": 2.2808
+			}
+		]
+	},
+	{
+		"date": "04.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.195,
+				"purchaseRateNB": 27.195
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.9919,
+				"purchaseRateNB": 23.9919
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.8153,
+				"purchaseRateNB": 14.8153
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.8127,
+				"purchaseRateNB": 29.8127
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.42,
+				"purchaseRate": 44.76,
+				"saleRateNB": 45.1283,
+				"purchaseRateNB": 45.1283
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.604,
+				"purchaseRateNB": 5.604
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.755,
+				"purchaseRate": 1.725,
+				"saleRateNB": 1.7411,
+				"purchaseRateNB": 1.7411
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.8792,
+				"purchaseRateNB": 5.8792
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.25,
+				"purchaseRate": 43.25,
+				"saleRateNB": 43.8495,
+				"purchaseRateNB": 43.8495
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 52.16,
+				"purchaseRate": 51.4,
+				"saleRateNB": 51.7855,
+				"purchaseRateNB": 51.7855
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.111005,
+				"purchaseRateNB": 0.111005
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 10.8361,
+				"purchaseRateNB": 10.8361
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25174,
+				"purchaseRateNB": 0.25174
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086037,
+				"purchaseRateNB": 0.086037
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.2771,
+				"purchaseRateNB": 2.2771
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8279,
+				"purchaseRateNB": 3.8279
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.29,
+				"purchaseRate": 10.12,
+				"saleRateNB": 10.1992,
+				"purchaseRateNB": 10.1992
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8584,
+				"purchaseRateNB": 3.8584
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.0501,
+				"purchaseRateNB": 30.0501
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2512,
+				"purchaseRateNB": 1.2512
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 40.9,
+				"purchaseRate": 40.3,
+				"saleRateNB": 40.7599,
+				"purchaseRateNB": 40.7599
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 95615.39,
+				"purchaseRateNB": 95615.39
+			}
+		]
+	},
+	{
+		"date": "05.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.2833,
+				"purchaseRateNB": 27.2833
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.8547,
+				"purchaseRateNB": 23.8547
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.7375,
+				"purchaseRateNB": 14.7375
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.7715,
+				"purchaseRateNB": 29.7715
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.54,
+				"purchaseRate": 44.87,
+				"saleRateNB": 45.0659,
+				"purchaseRateNB": 45.0659
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.5771,
+				"purchaseRateNB": 5.5771
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.755,
+				"purchaseRate": 1.725,
+				"saleRateNB": 1.7417,
+				"purchaseRateNB": 1.7417
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.8697,
+				"purchaseRateNB": 5.8697
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.25,
+				"purchaseRate": 43.25,
+				"saleRateNB": 43.7814,
+				"purchaseRateNB": 43.7814
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 52.38,
+				"purchaseRate": 51.61,
+				"saleRateNB": 51.7081,
+				"purchaseRateNB": 51.7081
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.11128,
+				"purchaseRateNB": 0.11128
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 10.8293,
+				"purchaseRateNB": 10.8293
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25181,
+				"purchaseRateNB": 0.25181
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.085281,
+				"purchaseRateNB": 0.085281
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.2727,
+				"purchaseRateNB": 2.2727
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8422,
+				"purchaseRateNB": 3.8422
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.36,
+				"purchaseRate": 10.19,
+				"saleRateNB": 10.1994,
+				"purchaseRateNB": 10.1994
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8618,
+				"purchaseRateNB": 3.8618
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.0006,
+				"purchaseRateNB": 30.0006
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2449,
+				"purchaseRateNB": 1.2449
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 40.95,
+				"purchaseRate": 40.35,
+				"saleRateNB": 40.5458,
+				"purchaseRateNB": 40.5458
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 95621.19,
+				"purchaseRateNB": 95621.19
+			}
+		]
+	},
+	{
+		"date": "06.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.2833,
+				"purchaseRateNB": 27.2833
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.8547,
+				"purchaseRateNB": 23.8547
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.7375,
+				"purchaseRateNB": 14.7375
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.7715,
+				"purchaseRateNB": 29.7715
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.54,
+				"purchaseRate": 44.87,
+				"saleRateNB": 45.0659,
+				"purchaseRateNB": 45.0659
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.5771,
+				"purchaseRateNB": 5.5771
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.755,
+				"purchaseRate": 1.725,
+				"saleRateNB": 1.7417,
+				"purchaseRateNB": 1.7417
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.8697,
+				"purchaseRateNB": 5.8697
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.25,
+				"purchaseRate": 43.25,
+				"saleRateNB": 43.7814,
+				"purchaseRateNB": 43.7814
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 52.38,
+				"purchaseRate": 51.61,
+				"saleRateNB": 51.7081,
+				"purchaseRateNB": 51.7081
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.11128,
+				"purchaseRateNB": 0.11128
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 10.8293,
+				"purchaseRateNB": 10.8293
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25181,
+				"purchaseRateNB": 0.25181
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.085281,
+				"purchaseRateNB": 0.085281
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.2727,
+				"purchaseRateNB": 2.2727
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8422,
+				"purchaseRateNB": 3.8422
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.36,
+				"purchaseRate": 10.19,
+				"saleRateNB": 10.1994,
+				"purchaseRateNB": 10.1994
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8618,
+				"purchaseRateNB": 3.8618
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.0006,
+				"purchaseRateNB": 30.0006
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2449,
+				"purchaseRateNB": 1.2449
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 40.95,
+				"purchaseRate": 40.35,
+				"saleRateNB": 40.5458,
+				"purchaseRateNB": 40.5458
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 95621.19,
+				"purchaseRateNB": 95621.19
+			}
+		]
+	},
+	{
+		"date": "07.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.2833,
+				"purchaseRateNB": 27.2833
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.8547,
+				"purchaseRateNB": 23.8547
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.7375,
+				"purchaseRateNB": 14.7375
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.7715,
+				"purchaseRateNB": 29.7715
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.54,
+				"purchaseRate": 44.87,
+				"saleRateNB": 45.0659,
+				"purchaseRateNB": 45.0659
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.5771,
+				"purchaseRateNB": 5.5771
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.755,
+				"purchaseRate": 1.725,
+				"saleRateNB": 1.7417,
+				"purchaseRateNB": 1.7417
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.8697,
+				"purchaseRateNB": 5.8697
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.25,
+				"purchaseRate": 43.25,
+				"saleRateNB": 43.7814,
+				"purchaseRateNB": 43.7814
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 52.38,
+				"purchaseRate": 51.61,
+				"saleRateNB": 51.7081,
+				"purchaseRateNB": 51.7081
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.11128,
+				"purchaseRateNB": 0.11128
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 10.8293,
+				"purchaseRateNB": 10.8293
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25181,
+				"purchaseRateNB": 0.25181
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.085281,
+				"purchaseRateNB": 0.085281
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.2727,
+				"purchaseRateNB": 2.2727
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8422,
+				"purchaseRateNB": 3.8422
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.36,
+				"purchaseRate": 10.19,
+				"saleRateNB": 10.1994,
+				"purchaseRateNB": 10.1994
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8618,
+				"purchaseRateNB": 3.8618
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.0006,
+				"purchaseRateNB": 30.0006
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2449,
+				"purchaseRateNB": 1.2449
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 40.95,
+				"purchaseRate": 40.35,
+				"saleRateNB": 40.5458,
+				"purchaseRateNB": 40.5458
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 95621.19,
+				"purchaseRateNB": 95621.19
+			}
+		]
+	},
+	{
+		"date": "08.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.2969,
+				"purchaseRateNB": 27.2969
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.8524,
+				"purchaseRateNB": 23.8524
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.7361,
+				"purchaseRateNB": 14.7361
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.7829,
+				"purchaseRateNB": 29.7829
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.72,
+				"purchaseRate": 45.05,
+				"saleRateNB": 45.0918,
+				"purchaseRateNB": 45.0918
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.5791,
+				"purchaseRateNB": 5.5791
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.76,
+				"purchaseRate": 1.73,
+				"saleRateNB": 1.7409,
+				"purchaseRateNB": 1.7409
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.8806,
+				"purchaseRateNB": 5.8806
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.45,
+				"purchaseRate": 43.45,
+				"saleRateNB": 43.8624,
+				"purchaseRateNB": 43.8624
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 52.52,
+				"purchaseRate": 51.75,
+				"saleRateNB": 51.8289,
+				"purchaseRateNB": 51.8289
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.111652,
+				"purchaseRateNB": 0.111652
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 10.9142,
+				"purchaseRateNB": 10.9142
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25212,
+				"purchaseRateNB": 0.25212
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.084563,
+				"purchaseRateNB": 0.084563
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.2725,
+				"purchaseRateNB": 2.2725
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8332,
+				"purchaseRateNB": 3.8332
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.38,
+				"purchaseRate": 10.22,
+				"saleRateNB": 10.2475,
+				"purchaseRateNB": 10.2475
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8595,
+				"purchaseRateNB": 3.8595
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.0267,
+				"purchaseRateNB": 30.0267
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2393,
+				"purchaseRateNB": 1.2393
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 40.99,
+				"purchaseRate": 40.39,
+				"saleRateNB": 40.542,
+				"purchaseRateNB": 40.542
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 95904.13,
+				"purchaseRateNB": 95904.13
+			}
+		]
+	},
+	{
+		"date": "09.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.4277,
+				"purchaseRateNB": 27.4277
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.9454,
+				"purchaseRateNB": 23.9454
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.7935,
+				"purchaseRateNB": 14.7935
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.8518,
+				"purchaseRateNB": 29.8518
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.64,
+				"purchaseRate": 44.98,
+				"saleRateNB": 45.4089,
+				"purchaseRateNB": 45.4089
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.5987,
+				"purchaseRateNB": 5.5987
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.76,
+				"purchaseRate": 1.73,
+				"saleRateNB": 1.7522,
+				"purchaseRateNB": 1.7522
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9099,
+				"purchaseRateNB": 5.9099
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.5,
+				"purchaseRate": 43.5,
+				"saleRateNB": 44.0781,
+				"purchaseRateNB": 44.0781
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 52.52,
+				"purchaseRate": 51.75,
+				"saleRateNB": 52.2161,
+				"purchaseRateNB": 52.2161
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.111675,
+				"purchaseRateNB": 0.111675
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.0238,
+				"purchaseRateNB": 11.0238
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25276,
+				"purchaseRateNB": 0.25276
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.084871,
+				"purchaseRateNB": 0.084871
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.2846,
+				"purchaseRateNB": 2.2846
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8499,
+				"purchaseRateNB": 3.8499
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.4,
+				"purchaseRate": 10.25,
+				"saleRateNB": 10.3075,
+				"purchaseRateNB": 10.3075
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8748,
+				"purchaseRateNB": 3.8748
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.1638,
+				"purchaseRateNB": 30.1638
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2435,
+				"purchaseRateNB": 1.2435
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41,
+				"purchaseRate": 40.4,
+				"saleRateNB": 40.7,
+				"purchaseRateNB": 40.7
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 96667.38,
+				"purchaseRateNB": 96667.38
+			}
+		]
+	},
+	{
+		"date": "10.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.4479,
+				"purchaseRateNB": 27.4479
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.9844,
+				"purchaseRateNB": 23.9844
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.8176,
+				"purchaseRateNB": 14.8176
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.8829,
+				"purchaseRateNB": 29.8829
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.69,
+				"purchaseRate": 45.01,
+				"saleRateNB": 45.3916,
+				"purchaseRateNB": 45.3916
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6059,
+				"purchaseRateNB": 5.6059
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.75,
+				"purchaseRate": 1.72,
+				"saleRateNB": 1.7473,
+				"purchaseRateNB": 1.7473
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9101,
+				"purchaseRateNB": 5.9101
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.5,
+				"purchaseRate": 43.5,
+				"saleRateNB": 44.0846,
+				"purchaseRateNB": 44.0846
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 52.44,
+				"purchaseRate": 51.67,
+				"saleRateNB": 52.1726,
+				"purchaseRateNB": 52.1726
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.111572,
+				"purchaseRateNB": 0.111572
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.0947,
+				"purchaseRateNB": 11.0947
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25303,
+				"purchaseRateNB": 0.25303
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.08491,
+				"purchaseRateNB": 0.08491
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.2883,
+				"purchaseRateNB": 2.2883
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8362,
+				"purchaseRateNB": 3.8362
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.4,
+				"purchaseRate": 10.24,
+				"saleRateNB": 10.3397,
+				"purchaseRateNB": 10.3397
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8578,
+				"purchaseRateNB": 3.8578
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.1771,
+				"purchaseRateNB": 30.1771
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2418,
+				"purchaseRateNB": 1.2418
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41,
+				"purchaseRate": 40.4,
+				"saleRateNB": 40.7662,
+				"purchaseRateNB": 40.7662
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 96226.17,
+				"purchaseRateNB": 96226.17
+			}
+		]
+	},
+	{
+		"date": "11.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.4498,
+				"purchaseRateNB": 27.4498
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 23.954,
+				"purchaseRateNB": 23.954
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.7989,
+				"purchaseRateNB": 14.7989
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.8604,
+				"purchaseRateNB": 29.8604
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.71,
+				"purchaseRate": 45.03,
+				"saleRateNB": 45.3341,
+				"purchaseRateNB": 45.3341
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.5957,
+				"purchaseRateNB": 5.5957
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.755,
+				"purchaseRate": 1.725,
+				"saleRateNB": 1.7362,
+				"purchaseRateNB": 1.7362
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9083,
+				"purchaseRateNB": 5.9083
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.6,
+				"purchaseRate": 43.6,
+				"saleRateNB": 44.0776,
+				"purchaseRateNB": 44.0776
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 52.87,
+				"purchaseRate": 52.07,
+				"saleRateNB": 52.1412,
+				"purchaseRateNB": 52.1412
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.112257,
+				"purchaseRateNB": 0.112257
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.1324,
+				"purchaseRateNB": 11.1324
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25215,
+				"purchaseRateNB": 0.25215
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.085225,
+				"purchaseRateNB": 0.085225
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.287,
+				"purchaseRateNB": 2.287
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8006,
+				"purchaseRateNB": 3.8006
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.46,
+				"purchaseRate": 10.3,
+				"saleRateNB": 10.3557,
+				"purchaseRateNB": 10.3557
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8638,
+				"purchaseRateNB": 3.8638
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.1768,
+				"purchaseRateNB": 30.1768
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2372,
+				"purchaseRateNB": 1.2372
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.15,
+				"purchaseRate": 40.55,
+				"saleRateNB": 40.7146,
+				"purchaseRateNB": 40.7146
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 96823.39,
+				"purchaseRateNB": 96823.39
+			}
+		]
+	},
+	{
+		"date": "12.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.616,
+				"purchaseRateNB": 27.616
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.0527,
+				"purchaseRateNB": 24.0527
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.8598,
+				"purchaseRateNB": 14.8598
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.9944,
+				"purchaseRateNB": 29.9944
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 45.93,
+				"purchaseRate": 45.26,
+				"saleRateNB": 45.5259,
+				"purchaseRateNB": 45.5259
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6271,
+				"purchaseRateNB": 5.6271
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.76,
+				"purchaseRate": 1.73,
+				"saleRateNB": 1.7497,
+				"purchaseRateNB": 1.7497
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.949,
+				"purchaseRateNB": 5.949
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.8,
+				"purchaseRate": 43.8,
+				"saleRateNB": 44.3818,
+				"purchaseRateNB": 44.3818
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.12,
+				"purchaseRate": 52.35,
+				"saleRateNB": 52.6482,
+				"purchaseRateNB": 52.6482
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.112673,
+				"purchaseRateNB": 0.112673
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.2329,
+				"purchaseRateNB": 11.2329
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25306,
+				"purchaseRateNB": 0.25306
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.0862,
+				"purchaseRateNB": 0.0862
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3,
+				"purchaseRateNB": 2.3
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7994,
+				"purchaseRateNB": 3.7994
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.49,
+				"purchaseRate": 10.33,
+				"saleRateNB": 10.4305,
+				"purchaseRateNB": 10.4305
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8863,
+				"purchaseRateNB": 3.8863
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.3416,
+				"purchaseRateNB": 30.3416
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.244,
+				"purchaseRateNB": 1.244
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.2,
+				"purchaseRate": 40.6,
+				"saleRateNB": 40.8823,
+				"purchaseRateNB": 40.8823
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 97303.14,
+				"purchaseRateNB": 97303.14
+			}
+		]
+	},
+	{
+		"date": "13.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.616,
+				"purchaseRateNB": 27.616
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.0527,
+				"purchaseRateNB": 24.0527
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.8598,
+				"purchaseRateNB": 14.8598
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.9944,
+				"purchaseRateNB": 29.9944
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.07,
+				"purchaseRate": 45.35,
+				"saleRateNB": 45.5259,
+				"purchaseRateNB": 45.5259
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6271,
+				"purchaseRateNB": 5.6271
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.765,
+				"purchaseRate": 1.735,
+				"saleRateNB": 1.7497,
+				"purchaseRateNB": 1.7497
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.949,
+				"purchaseRateNB": 5.949
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.8,
+				"purchaseRate": 43.8,
+				"saleRateNB": 44.3818,
+				"purchaseRateNB": 44.3818
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.44,
+				"purchaseRate": 52.56,
+				"saleRateNB": 52.6482,
+				"purchaseRateNB": 52.6482
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.112673,
+				"purchaseRateNB": 0.112673
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.2329,
+				"purchaseRateNB": 11.2329
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25306,
+				"purchaseRateNB": 0.25306
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.0862,
+				"purchaseRateNB": 0.0862
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3,
+				"purchaseRateNB": 2.3
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7994,
+				"purchaseRateNB": 3.7994
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.54,
+				"purchaseRate": 10.35,
+				"saleRateNB": 10.4305,
+				"purchaseRateNB": 10.4305
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8863,
+				"purchaseRateNB": 3.8863
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.3416,
+				"purchaseRateNB": 30.3416
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.244,
+				"purchaseRateNB": 1.244
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.2,
+				"purchaseRate": 40.6,
+				"saleRateNB": 40.8823,
+				"purchaseRateNB": 40.8823
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 97303.14,
+				"purchaseRateNB": 97303.14
+			}
+		]
+	},
+	{
+		"date": "14.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.616,
+				"purchaseRateNB": 27.616
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.0527,
+				"purchaseRateNB": 24.0527
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.8598,
+				"purchaseRateNB": 14.8598
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.9944,
+				"purchaseRateNB": 29.9944
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.07,
+				"purchaseRate": 45.35,
+				"saleRateNB": 45.5259,
+				"purchaseRateNB": 45.5259
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6271,
+				"purchaseRateNB": 5.6271
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.765,
+				"purchaseRate": 1.735,
+				"saleRateNB": 1.7497,
+				"purchaseRateNB": 1.7497
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.949,
+				"purchaseRateNB": 5.949
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.8,
+				"purchaseRate": 43.8,
+				"saleRateNB": 44.3818,
+				"purchaseRateNB": 44.3818
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.44,
+				"purchaseRate": 52.56,
+				"saleRateNB": 52.6482,
+				"purchaseRateNB": 52.6482
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.112673,
+				"purchaseRateNB": 0.112673
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.2329,
+				"purchaseRateNB": 11.2329
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25306,
+				"purchaseRateNB": 0.25306
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.0862,
+				"purchaseRateNB": 0.0862
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3,
+				"purchaseRateNB": 2.3
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7994,
+				"purchaseRateNB": 3.7994
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.54,
+				"purchaseRate": 10.35,
+				"saleRateNB": 10.4305,
+				"purchaseRateNB": 10.4305
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8863,
+				"purchaseRateNB": 3.8863
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.3416,
+				"purchaseRateNB": 30.3416
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.244,
+				"purchaseRateNB": 1.244
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.2,
+				"purchaseRate": 40.6,
+				"saleRateNB": 40.8823,
+				"purchaseRateNB": 40.8823
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 97303.14,
+				"purchaseRateNB": 97303.14
+			}
+		]
+	},
+	{
+		"date": "15.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.7946,
+				"purchaseRateNB": 27.7946
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.1474,
+				"purchaseRateNB": 24.1474
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.9184,
+				"purchaseRateNB": 14.9184
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 30.1324,
+				"purchaseRateNB": 30.1324
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.14,
+				"purchaseRate": 45.47,
+				"saleRateNB": 45.8329,
+				"purchaseRateNB": 45.8329
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6592,
+				"purchaseRateNB": 5.6592
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.765,
+				"purchaseRate": 1.735,
+				"saleRateNB": 1.7636,
+				"purchaseRateNB": 1.7636
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9893,
+				"purchaseRateNB": 5.9893
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.1,
+				"purchaseRate": 44.1,
+				"saleRateNB": 44.686,
+				"purchaseRateNB": 44.686
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.6,
+				"purchaseRate": 52.78,
+				"saleRateNB": 53.1922,
+				"purchaseRateNB": 53.1922
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.113921,
+				"purchaseRateNB": 0.113921
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.3021,
+				"purchaseRateNB": 11.3021
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25813,
+				"purchaseRateNB": 0.25813
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086595,
+				"purchaseRateNB": 0.086595
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3144,
+				"purchaseRateNB": 2.3144
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8184,
+				"purchaseRateNB": 3.8184
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.59,
+				"purchaseRate": 10.42,
+				"saleRateNB": 10.5019,
+				"purchaseRateNB": 10.5019
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8875,
+				"purchaseRateNB": 3.8875
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.5633,
+				"purchaseRateNB": 30.5633
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2427,
+				"purchaseRateNB": 1.2427
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.35,
+				"purchaseRate": 40.75,
+				"saleRateNB": 41.0434,
+				"purchaseRateNB": 41.0434
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 98578.86,
+				"purchaseRateNB": 98578.86
+			}
+		]
+	},
+	{
+		"date": "16.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.793,
+				"purchaseRateNB": 27.793
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.1282,
+				"purchaseRateNB": 24.1282
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.9065,
+				"purchaseRateNB": 14.9065
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 30.0621,
+				"purchaseRateNB": 30.0621
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.32,
+				"purchaseRate": 45.65,
+				"saleRateNB": 45.8425,
+				"purchaseRateNB": 45.8425
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6474,
+				"purchaseRateNB": 5.6474
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.775,
+				"purchaseRate": 1.745,
+				"saleRateNB": 1.7592,
+				"purchaseRateNB": 1.7592
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9944,
+				"purchaseRateNB": 5.9944
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.35,
+				"purchaseRate": 44.35,
+				"saleRateNB": 44.7263,
+				"purchaseRateNB": 44.7263
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.79,
+				"purchaseRate": 53,
+				"saleRateNB": 53.2011,
+				"purchaseRateNB": 53.2011
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.114125,
+				"purchaseRateNB": 0.114125
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.354,
+				"purchaseRateNB": 11.354
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.25933,
+				"purchaseRateNB": 0.25933
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086656,
+				"purchaseRateNB": 0.086656
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3137,
+				"purchaseRateNB": 2.3137
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8063,
+				"purchaseRateNB": 3.8063
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.59,
+				"purchaseRate": 10.43,
+				"saleRateNB": 10.5183,
+				"purchaseRateNB": 10.5183
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8749,
+				"purchaseRateNB": 3.8749
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.548,
+				"purchaseRateNB": 30.548
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2404,
+				"purchaseRateNB": 1.2404
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.5,
+				"purchaseRate": 40.9,
+				"saleRateNB": 41.0107,
+				"purchaseRateNB": 41.0107
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 99164.28,
+				"purchaseRateNB": 99164.28
+			}
+		]
+	},
+	{
+		"date": "17.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.8199,
+				"purchaseRateNB": 27.8199
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.2734,
+				"purchaseRateNB": 24.2734
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.9962,
+				"purchaseRateNB": 14.9962
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 30.1645,
+				"purchaseRateNB": 30.1645
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.76,
+				"purchaseRate": 46.05,
+				"saleRateNB": 46.0823,
+				"purchaseRateNB": 46.0823
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6775,
+				"purchaseRateNB": 5.6775
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.785,
+				"purchaseRate": 1.755,
+				"saleRateNB": 1.7743,
+				"purchaseRateNB": 1.7743
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 6.0282,
+				"purchaseRateNB": 6.0282
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.75,
+				"purchaseRate": 44.75,
+				"saleRateNB": 44.9789,
+				"purchaseRateNB": 44.9789
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 54.12,
+				"purchaseRate": 53.34,
+				"saleRateNB": 53.5027,
+				"purchaseRateNB": 53.5027
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.114834,
+				"purchaseRateNB": 0.114834
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.3786,
+				"purchaseRateNB": 11.3786
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26055,
+				"purchaseRateNB": 0.26055
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086858,
+				"purchaseRateNB": 0.086858
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.341,
+				"purchaseRateNB": 2.341
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8175,
+				"purchaseRateNB": 3.8175
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.59,
+				"purchaseRate": 10.43,
+				"saleRateNB": 10.544,
+				"purchaseRateNB": 10.544
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.891,
+				"purchaseRateNB": 3.891
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.709,
+				"purchaseRateNB": 30.709
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2467,
+				"purchaseRateNB": 1.2467
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.55,
+				"purchaseRate": 40.95,
+				"saleRateNB": 41.2575,
+				"purchaseRateNB": 41.2575
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 100664.59,
+				"purchaseRateNB": 100664.59
+			}
+		]
+	},
+	{
+		"date": "18.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.9583,
+				"purchaseRateNB": 27.9583
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.3941,
+				"purchaseRateNB": 24.3941
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 15.0708,
+				"purchaseRateNB": 15.0708
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 30.3312,
+				"purchaseRateNB": 30.3312
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 47.12,
+				"purchaseRate": 46.44,
+				"saleRateNB": 46.7765,
+				"purchaseRateNB": 46.7765
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.7119,
+				"purchaseRateNB": 5.7119
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.79,
+				"purchaseRate": 1.76,
+				"saleRateNB": 1.7933,
+				"purchaseRateNB": 1.7933
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 6.0789,
+				"purchaseRateNB": 6.0789
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.85,
+				"purchaseRate": 44.85,
+				"saleRateNB": 45.3457,
+				"purchaseRateNB": 45.3457
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 54.2,
+				"purchaseRate": 53.4,
+				"saleRateNB": 54.0404,
+				"purchaseRateNB": 54.0404
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.115892,
+				"purchaseRateNB": 0.115892
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.4244,
+				"purchaseRateNB": 11.4244
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26498,
+				"purchaseRateNB": 0.26498
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.087237,
+				"purchaseRateNB": 0.087237
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3399,
+				"purchaseRateNB": 2.3399
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8579,
+				"purchaseRateNB": 3.8579
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.61,
+				"purchaseRate": 10.45,
+				"saleRateNB": 10.5611,
+				"purchaseRateNB": 10.5611
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.9414,
+				"purchaseRateNB": 3.9414
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.9331,
+				"purchaseRateNB": 30.9331
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2528,
+				"purchaseRateNB": 1.2528
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.65,
+				"purchaseRate": 41.05,
+				"saleRateNB": 41.4627,
+				"purchaseRateNB": 41.4627
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 102448.53,
+				"purchaseRateNB": 102448.53
+			}
+		]
+	},
+	{
+		"date": "19.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.8853,
+				"purchaseRateNB": 27.8853
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.3702,
+				"purchaseRateNB": 24.3702
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 15.056,
+				"purchaseRateNB": 15.056
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 30.2792,
+				"purchaseRateNB": 30.2792
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.97,
+				"purchaseRate": 46.3,
+				"saleRateNB": 46.8469,
+				"purchaseRateNB": 46.8469
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.7072,
+				"purchaseRateNB": 5.7072
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.795,
+				"purchaseRate": 1.765,
+				"saleRateNB": 1.7911,
+				"purchaseRateNB": 1.7911
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 6.0673,
+				"purchaseRateNB": 6.0673
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.8,
+				"purchaseRate": 44.8,
+				"saleRateNB": 45.2618,
+				"purchaseRateNB": 45.2618
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.9,
+				"purchaseRate": 53.12,
+				"saleRateNB": 53.7699,
+				"purchaseRateNB": 53.7699
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.116106,
+				"purchaseRateNB": 0.116106
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.3938,
+				"purchaseRateNB": 11.3938
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26469,
+				"purchaseRateNB": 0.26469
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086635,
+				"purchaseRateNB": 0.086635
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3414,
+				"purchaseRateNB": 2.3414
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8551,
+				"purchaseRateNB": 3.8551
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.6,
+				"purchaseRate": 10.44,
+				"saleRateNB": 10.5461,
+				"purchaseRateNB": 10.5461
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.926,
+				"purchaseRateNB": 3.926
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.8912,
+				"purchaseRateNB": 30.8912
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2518,
+				"purchaseRateNB": 1.2518
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.75,
+				"purchaseRate": 41.15,
+				"saleRateNB": 41.422,
+				"purchaseRateNB": 41.422
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 102096.12,
+				"purchaseRateNB": 102096.12
+			}
+		]
+	},
+	{
+		"date": "20.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.8853,
+				"purchaseRateNB": 27.8853
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.3702,
+				"purchaseRateNB": 24.3702
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 15.056,
+				"purchaseRateNB": 15.056
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 30.2792,
+				"purchaseRateNB": 30.2792
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.87,
+				"purchaseRate": 46.2,
+				"saleRateNB": 46.8469,
+				"purchaseRateNB": 46.8469
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.7072,
+				"purchaseRateNB": 5.7072
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.795,
+				"purchaseRate": 1.765,
+				"saleRateNB": 1.7911,
+				"purchaseRateNB": 1.7911
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 6.0673,
+				"purchaseRateNB": 6.0673
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.9,
+				"purchaseRate": 44.9,
+				"saleRateNB": 45.2618,
+				"purchaseRateNB": 45.2618
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.86,
+				"purchaseRate": 53.1,
+				"saleRateNB": 53.7699,
+				"purchaseRateNB": 53.7699
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.116106,
+				"purchaseRateNB": 0.116106
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.3938,
+				"purchaseRateNB": 11.3938
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26469,
+				"purchaseRateNB": 0.26469
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086635,
+				"purchaseRateNB": 0.086635
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3414,
+				"purchaseRateNB": 2.3414
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8551,
+				"purchaseRateNB": 3.8551
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.6,
+				"purchaseRate": 10.44,
+				"saleRateNB": 10.5461,
+				"purchaseRateNB": 10.5461
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.926,
+				"purchaseRateNB": 3.926
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.8912,
+				"purchaseRateNB": 30.8912
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2518,
+				"purchaseRateNB": 1.2518
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.7,
+				"purchaseRate": 41.1,
+				"saleRateNB": 41.422,
+				"purchaseRateNB": 41.422
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 102096.12,
+				"purchaseRateNB": 102096.12
+			}
+		]
+	},
+	{
+		"date": "21.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.8853,
+				"purchaseRateNB": 27.8853
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.3702,
+				"purchaseRateNB": 24.3702
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 15.056,
+				"purchaseRateNB": 15.056
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 30.2792,
+				"purchaseRateNB": 30.2792
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.87,
+				"purchaseRate": 46.2,
+				"saleRateNB": 46.8469,
+				"purchaseRateNB": 46.8469
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.7072,
+				"purchaseRateNB": 5.7072
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.795,
+				"purchaseRate": 1.765,
+				"saleRateNB": 1.7911,
+				"purchaseRateNB": 1.7911
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 6.0673,
+				"purchaseRateNB": 6.0673
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.9,
+				"purchaseRate": 44.9,
+				"saleRateNB": 45.2618,
+				"purchaseRateNB": 45.2618
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.86,
+				"purchaseRate": 53.1,
+				"saleRateNB": 53.7699,
+				"purchaseRateNB": 53.7699
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.116106,
+				"purchaseRateNB": 0.116106
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.3938,
+				"purchaseRateNB": 11.3938
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26469,
+				"purchaseRateNB": 0.26469
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086635,
+				"purchaseRateNB": 0.086635
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3414,
+				"purchaseRateNB": 2.3414
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8551,
+				"purchaseRateNB": 3.8551
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.6,
+				"purchaseRate": 10.44,
+				"saleRateNB": 10.5461,
+				"purchaseRateNB": 10.5461
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.926,
+				"purchaseRateNB": 3.926
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.8912,
+				"purchaseRateNB": 30.8912
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2518,
+				"purchaseRateNB": 1.2518
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.7,
+				"purchaseRate": 41.1,
+				"saleRateNB": 41.422,
+				"purchaseRateNB": 41.422
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 102096.12,
+				"purchaseRateNB": 102096.12
+			}
+		]
+	},
+	{
+		"date": "22.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.7784,
+				"purchaseRateNB": 27.7784
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.4224,
+				"purchaseRateNB": 24.4224
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 15.0811,
+				"purchaseRateNB": 15.0811
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 30.2568,
+				"purchaseRateNB": 30.2568
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 47.05,
+				"purchaseRate": 46.38,
+				"saleRateNB": 46.6613,
+				"purchaseRateNB": 46.6613
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.7076,
+				"purchaseRateNB": 5.7076
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.795,
+				"purchaseRate": 1.765,
+				"saleRateNB": 1.7893,
+				"purchaseRateNB": 1.7893
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 6.0564,
+				"purchaseRateNB": 6.0564
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.85,
+				"purchaseRate": 44.85,
+				"saleRateNB": 45.186,
+				"purchaseRateNB": 45.186
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.96,
+				"purchaseRate": 53.18,
+				"saleRateNB": 53.6232,
+				"purchaseRateNB": 53.6232
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.115603,
+				"purchaseRateNB": 0.115603
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.3507,
+				"purchaseRateNB": 11.3507
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26354,
+				"purchaseRateNB": 0.26354
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.087302,
+				"purchaseRateNB": 0.087302
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3441,
+				"purchaseRateNB": 2.3441
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.8224,
+				"purchaseRateNB": 3.8224
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.6,
+				"purchaseRate": 10.44,
+				"saleRateNB": 10.5498,
+				"purchaseRateNB": 10.5498
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8925,
+				"purchaseRateNB": 3.8925
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.8599,
+				"purchaseRateNB": 30.8599
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2555,
+				"purchaseRateNB": 1.2555
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.75,
+				"purchaseRate": 41.15,
+				"saleRateNB": 41.4912,
+				"purchaseRateNB": 41.4912
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 99968.9,
+				"purchaseRateNB": 99968.9
+			}
+		]
+	},
+	{
+		"date": "23.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.5056,
+				"purchaseRateNB": 27.5056
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.3201,
+				"purchaseRateNB": 24.3201
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 15.025,
+				"purchaseRateNB": 15.025
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 30.0632,
+				"purchaseRateNB": 30.0632
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.88,
+				"purchaseRate": 46.2,
+				"saleRateNB": 46.5401,
+				"purchaseRateNB": 46.5401
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6835,
+				"purchaseRateNB": 5.6835
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.79,
+				"purchaseRate": 1.76,
+				"saleRateNB": 1.7835,
+				"purchaseRateNB": 1.7835
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 6.0301,
+				"purchaseRateNB": 6.0301
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.65,
+				"purchaseRate": 44.65,
+				"saleRateNB": 44.9952,
+				"purchaseRateNB": 44.9952
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.86,
+				"purchaseRate": 53.08,
+				"saleRateNB": 53.4279,
+				"purchaseRateNB": 53.4279
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.115518,
+				"purchaseRateNB": 0.115518
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.3754,
+				"purchaseRateNB": 11.3754
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26352,
+				"purchaseRateNB": 0.26352
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.087303,
+				"purchaseRateNB": 0.087303
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3363,
+				"purchaseRateNB": 2.3363
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7801,
+				"purchaseRateNB": 3.7801
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.6,
+				"purchaseRate": 10.43,
+				"saleRateNB": 10.5186,
+				"purchaseRateNB": 10.5186
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8714,
+				"purchaseRateNB": 3.8714
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.7269,
+				"purchaseRateNB": 30.7269
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2533,
+				"purchaseRateNB": 1.2533
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.7,
+				"purchaseRate": 41.1,
+				"saleRateNB": 41.3369,
+				"purchaseRateNB": 41.3369
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 99157.72,
+				"purchaseRateNB": 99157.72
+			}
+		]
+	},
+	{
+		"date": "24.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.3036,
+				"purchaseRateNB": 27.3036
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.2696,
+				"purchaseRateNB": 24.2696
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.9868,
+				"purchaseRateNB": 14.9868
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.9648,
+				"purchaseRateNB": 29.9648
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.95,
+				"purchaseRate": 46.26,
+				"saleRateNB": 46.2549,
+				"purchaseRateNB": 46.2549
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.668,
+				"purchaseRateNB": 5.668
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.77,
+				"purchaseRate": 1.74,
+				"saleRateNB": 1.7654,
+				"purchaseRateNB": 1.7654
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 6.0005,
+				"purchaseRateNB": 6.0005
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.35,
+				"purchaseRate": 44.35,
+				"saleRateNB": 44.7693,
+				"purchaseRateNB": 44.7693
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.72,
+				"purchaseRate": 52.94,
+				"saleRateNB": 53.23,
+				"purchaseRateNB": 53.23
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.114755,
+				"purchaseRateNB": 0.114755
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.3969,
+				"purchaseRateNB": 11.3969
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26406,
+				"purchaseRateNB": 0.26406
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.087005,
+				"purchaseRateNB": 0.087005
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3267,
+				"purchaseRateNB": 2.3267
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.743,
+				"purchaseRateNB": 3.743
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.51,
+				"purchaseRate": 10.36,
+				"saleRateNB": 10.4694,
+				"purchaseRateNB": 10.4694
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8358,
+				"purchaseRateNB": 3.8358
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.6372,
+				"purchaseRateNB": 30.6372
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2521,
+				"purchaseRateNB": 1.2521
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.58,
+				"purchaseRate": 40.98,
+				"saleRateNB": 41.2316,
+				"purchaseRateNB": 41.2316
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 99260.13,
+				"purchaseRateNB": 99260.13
+			}
+		]
+	},
+	{
+		"date": "25.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 27.2282,
+				"purchaseRateNB": 27.2282
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.2498,
+				"purchaseRateNB": 24.2498
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.9816,
+				"purchaseRateNB": 14.9816
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.9024,
+				"purchaseRateNB": 29.9024
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 47.1,
+				"purchaseRate": 46.42,
+				"saleRateNB": 46.4998,
+				"purchaseRateNB": 46.4998
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6645,
+				"purchaseRateNB": 5.6645
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.77,
+				"purchaseRate": 1.74,
+				"saleRateNB": 1.7579,
+				"purchaseRateNB": 1.7579
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9913,
+				"purchaseRateNB": 5.9913
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.3,
+				"purchaseRate": 44.3,
+				"saleRateNB": 44.7044,
+				"purchaseRateNB": 44.7044
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.61,
+				"purchaseRate": 52.83,
+				"saleRateNB": 53.2446,
+				"purchaseRateNB": 53.2446
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.113757,
+				"purchaseRateNB": 0.113757
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.3628,
+				"purchaseRateNB": 11.3628
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26732,
+				"purchaseRateNB": 0.26732
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086977,
+				"purchaseRateNB": 0.086977
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3259,
+				"purchaseRateNB": 2.3259
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7429,
+				"purchaseRateNB": 3.7429
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.48,
+				"purchaseRate": 10.33,
+				"saleRateNB": 10.4329,
+				"purchaseRateNB": 10.4329
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.826,
+				"purchaseRateNB": 3.826
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.6723,
+				"purchaseRateNB": 30.6723
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.254,
+				"purchaseRateNB": 1.254
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.58,
+				"purchaseRate": 40.98,
+				"saleRateNB": 41.2174,
+				"purchaseRateNB": 41.2174
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 99624.1,
+				"purchaseRateNB": 99624.1
+			}
+		]
+	},
+	{
+		"date": "26.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 26.865,
+				"purchaseRateNB": 26.865
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.2496,
+				"purchaseRateNB": 24.2496
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.9744,
+				"purchaseRateNB": 14.9744
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.7682,
+				"purchaseRateNB": 29.7682
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 47.09,
+				"purchaseRate": 46.41,
+				"saleRateNB": 46.9169,
+				"purchaseRateNB": 46.9169
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.7072,
+				"purchaseRateNB": 5.7072
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.77,
+				"purchaseRate": 1.74,
+				"saleRateNB": 1.759,
+				"purchaseRateNB": 1.759
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9876,
+				"purchaseRateNB": 5.9876
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.2,
+				"purchaseRate": 44.2,
+				"saleRateNB": 44.683,
+				"purchaseRateNB": 44.683
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.36,
+				"purchaseRate": 52.59,
+				"saleRateNB": 53.0297,
+				"purchaseRateNB": 53.0297
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.113508,
+				"purchaseRateNB": 0.113508
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.2627,
+				"purchaseRateNB": 11.2627
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26981,
+				"purchaseRateNB": 0.26981
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086767,
+				"purchaseRateNB": 0.086767
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3158,
+				"purchaseRateNB": 2.3158
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7014,
+				"purchaseRateNB": 3.7014
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.52,
+				"purchaseRate": 10.36,
+				"saleRateNB": 10.394,
+				"purchaseRateNB": 10.394
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.7955,
+				"purchaseRateNB": 3.7955
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.6873,
+				"purchaseRateNB": 30.6873
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.245,
+				"purchaseRateNB": 1.245
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.5,
+				"purchaseRate": 40.9,
+				"saleRateNB": 41.1977,
+				"purchaseRateNB": 41.1977
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 97595.29,
+				"purchaseRateNB": 97595.29
+			}
+		]
+	},
+	{
+		"date": "27.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 26.865,
+				"purchaseRateNB": 26.865
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.2496,
+				"purchaseRateNB": 24.2496
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.9744,
+				"purchaseRateNB": 14.9744
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.7682,
+				"purchaseRateNB": 29.7682
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.97,
+				"purchaseRate": 46.3,
+				"saleRateNB": 46.9169,
+				"purchaseRateNB": 46.9169
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.7072,
+				"purchaseRateNB": 5.7072
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.77,
+				"purchaseRate": 1.74,
+				"saleRateNB": 1.759,
+				"purchaseRateNB": 1.759
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9876,
+				"purchaseRateNB": 5.9876
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.1,
+				"purchaseRate": 44.1,
+				"saleRateNB": 44.683,
+				"purchaseRateNB": 44.683
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.36,
+				"purchaseRate": 52.59,
+				"saleRateNB": 53.0297,
+				"purchaseRateNB": 53.0297
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.113508,
+				"purchaseRateNB": 0.113508
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.2627,
+				"purchaseRateNB": 11.2627
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26981,
+				"purchaseRateNB": 0.26981
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086767,
+				"purchaseRateNB": 0.086767
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3158,
+				"purchaseRateNB": 2.3158
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7014,
+				"purchaseRateNB": 3.7014
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.55,
+				"purchaseRate": 10.39,
+				"saleRateNB": 10.394,
+				"purchaseRateNB": 10.394
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.7955,
+				"purchaseRateNB": 3.7955
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.6873,
+				"purchaseRateNB": 30.6873
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.245,
+				"purchaseRateNB": 1.245
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.45,
+				"purchaseRate": 40.85,
+				"saleRateNB": 41.1977,
+				"purchaseRateNB": 41.1977
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 97595.29,
+				"purchaseRateNB": 97595.29
+			}
+		]
+	},
+	{
+		"date": "28.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 26.865,
+				"purchaseRateNB": 26.865
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.2496,
+				"purchaseRateNB": 24.2496
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.9744,
+				"purchaseRateNB": 14.9744
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.7682,
+				"purchaseRateNB": 29.7682
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.97,
+				"purchaseRate": 46.3,
+				"saleRateNB": 46.9169,
+				"purchaseRateNB": 46.9169
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.7072,
+				"purchaseRateNB": 5.7072
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.77,
+				"purchaseRate": 1.74,
+				"saleRateNB": 1.759,
+				"purchaseRateNB": 1.759
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9876,
+				"purchaseRateNB": 5.9876
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45.1,
+				"purchaseRate": 44.1,
+				"saleRateNB": 44.683,
+				"purchaseRateNB": 44.683
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.36,
+				"purchaseRate": 52.59,
+				"saleRateNB": 53.0297,
+				"purchaseRateNB": 53.0297
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.113508,
+				"purchaseRateNB": 0.113508
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.2627,
+				"purchaseRateNB": 11.2627
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26981,
+				"purchaseRateNB": 0.26981
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086767,
+				"purchaseRateNB": 0.086767
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3158,
+				"purchaseRateNB": 2.3158
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7014,
+				"purchaseRateNB": 3.7014
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.55,
+				"purchaseRate": 10.39,
+				"saleRateNB": 10.394,
+				"purchaseRateNB": 10.394
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.7955,
+				"purchaseRateNB": 3.7955
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.6873,
+				"purchaseRateNB": 30.6873
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.245,
+				"purchaseRateNB": 1.245
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.45,
+				"purchaseRate": 40.85,
+				"saleRateNB": 41.1977,
+				"purchaseRateNB": 41.1977
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 97595.29,
+				"purchaseRateNB": 97595.29
+			}
+		]
+	},
+	{
+		"date": "29.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 26.9582,
+				"purchaseRateNB": 26.9582
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.1767,
+				"purchaseRateNB": 24.1767
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.9382,
+				"purchaseRateNB": 14.9382
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.7467,
+				"purchaseRateNB": 29.7467
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.78,
+				"purchaseRate": 46.1,
+				"saleRateNB": 46.5067,
+				"purchaseRateNB": 46.5067
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6672,
+				"purchaseRateNB": 5.6672
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.77,
+				"purchaseRate": 1.74,
+				"saleRateNB": 1.7594,
+				"purchaseRateNB": 1.7594
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9808,
+				"purchaseRateNB": 5.9808
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45,
+				"purchaseRate": 44,
+				"saleRateNB": 44.6324,
+				"purchaseRateNB": 44.6324
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.08,
+				"purchaseRate": 52.31,
+				"saleRateNB": 52.889,
+				"purchaseRateNB": 52.889
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.114098,
+				"purchaseRateNB": 0.114098
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.2103,
+				"purchaseRateNB": 11.2103
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26571,
+				"purchaseRateNB": 0.26571
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086782,
+				"purchaseRateNB": 0.086782
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3193,
+				"purchaseRateNB": 2.3193
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7417,
+				"purchaseRateNB": 3.7417
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.48,
+				"purchaseRate": 10.32,
+				"saleRateNB": 10.4437,
+				"purchaseRateNB": 10.4437
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8054,
+				"purchaseRateNB": 3.8054
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.5834,
+				"purchaseRateNB": 30.5834
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2457,
+				"purchaseRateNB": 1.2457
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.38,
+				"purchaseRate": 40.78,
+				"saleRateNB": 41.098,
+				"purchaseRateNB": 41.098
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 97533.77,
+				"purchaseRateNB": 97533.77
+			}
+		]
+	},
+	{
+		"date": "30.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 26.8576,
+				"purchaseRateNB": 26.8576
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.1472,
+				"purchaseRateNB": 24.1472
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.92,
+				"purchaseRateNB": 14.92
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.646,
+				"purchaseRateNB": 29.646
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.62,
+				"purchaseRate": 45.95,
+				"saleRateNB": 46.3817,
+				"purchaseRateNB": 46.3817
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6551,
+				"purchaseRateNB": 5.6551
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.76,
+				"purchaseRate": 1.73,
+				"saleRateNB": 1.7504,
+				"purchaseRateNB": 1.7504
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9507,
+				"purchaseRateNB": 5.9507
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 45,
+				"purchaseRate": 44,
+				"saleRateNB": 44.4055,
+				"purchaseRateNB": 44.4055
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 53.14,
+				"purchaseRate": 52.37,
+				"saleRateNB": 52.6479,
+				"purchaseRateNB": 52.6479
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.113101,
+				"purchaseRateNB": 0.113101
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 11.0077,
+				"purchaseRateNB": 11.0077
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26687,
+				"purchaseRateNB": 0.26687
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086418,
+				"purchaseRateNB": 0.086418
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.3135,
+				"purchaseRateNB": 2.3135
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7276,
+				"purchaseRateNB": 3.7276
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.43,
+				"purchaseRate": 10.27,
+				"saleRateNB": 10.3544,
+				"purchaseRateNB": 10.3544
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.7874,
+				"purchaseRateNB": 3.7874
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.537,
+				"purchaseRateNB": 30.537
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2433,
+				"purchaseRateNB": 1.2433
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.3,
+				"purchaseRate": 40.7,
+				"saleRateNB": 41.0478,
+				"purchaseRateNB": 41.0478
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 98012.71,
+				"purchaseRateNB": 98012.71
+			}
+		]
+	},
+	{
+		"date": "31.07.2024",
+		"bank": "PB",
+		"baseCurrencyLit": "UAH",
+		"exchangeRate": [
+			{
+				"currency": "AUD",
+				"saleRateNB": 26.8207,
+				"purchaseRateNB": 26.8207
+			},
+			{
+				"currency": "AZN",
+				"saleRateNB": 24.1305,
+				"purchaseRateNB": 24.1305
+			},
+			{
+				"currency": "BYN",
+				"saleRateNB": 14.9132,
+				"purchaseRateNB": 14.9132
+			},
+			{
+				"currency": "CAD",
+				"saleRateNB": 29.6153,
+				"purchaseRateNB": 29.6153
+			},
+			{
+				"currency": "CHF",
+				"saleRate": 46.82,
+				"purchaseRate": 46.12,
+				"saleRateNB": 46.303,
+				"purchaseRateNB": 46.303
+			},
+			{
+				"currency": "CNY",
+				"saleRateNB": 5.6586,
+				"purchaseRateNB": 5.6586
+			},
+			{
+				"currency": "CZK",
+				"saleRate": 1.755,
+				"purchaseRate": 1.725,
+				"saleRateNB": 1.7477,
+				"purchaseRateNB": 1.7477
+			},
+			{
+				"currency": "DKK",
+				"saleRateNB": 5.9527,
+				"purchaseRateNB": 5.9527
+			},
+			{
+				"currency": "EUR",
+				"saleRate": 44.9,
+				"purchaseRate": 43.9,
+				"saleRateNB": 44.4181,
+				"purchaseRateNB": 44.4181
+			},
+			{
+				"currency": "GBP",
+				"saleRate": 52.91,
+				"purchaseRate": 52.13,
+				"saleRateNB": 52.7019,
+				"purchaseRateNB": 52.7019
+			},
+			{
+				"currency": "GEL",
+				"saleRateNB": 14.449,
+				"purchaseRateNB": 14.449
+			},
+			{
+				"currency": "HUF",
+				"saleRateNB": 0.11259,
+				"purchaseRateNB": 0.11259
+			},
+			{
+				"currency": "ILS",
+				"saleRateNB": 10.9956,
+				"purchaseRateNB": 10.9956
+			},
+			{
+				"currency": "JPY",
+				"saleRateNB": 0.26493,
+				"purchaseRateNB": 0.26493
+			},
+			{
+				"currency": "KZT",
+				"saleRateNB": 0.086521,
+				"purchaseRateNB": 0.086521
+			},
+			{
+				"currency": "MDL",
+				"saleRateNB": 2.315,
+				"purchaseRateNB": 2.315
+			},
+			{
+				"currency": "NOK",
+				"saleRateNB": 3.7384,
+				"purchaseRateNB": 3.7384
+			},
+			{
+				"currency": "PLN",
+				"saleRate": 10.4,
+				"purchaseRate": 10.23,
+				"saleRateNB": 10.3687,
+				"purchaseRateNB": 10.3687
+			},
+			{
+				"currency": "SEK",
+				"saleRateNB": 3.8025,
+				"purchaseRateNB": 3.8025
+			},
+			{
+				"currency": "SGD",
+				"saleRateNB": 30.514,
+				"purchaseRateNB": 30.514
+			},
+			{
+				"currency": "TMT",
+				"saleRateNB": 11.5583,
+				"purchaseRateNB": 11.5583
+			},
+			{
+				"currency": "TRY",
+				"saleRateNB": 1.2398,
+				"purchaseRateNB": 1.2398
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.25,
+				"purchaseRate": 40.65,
+				"saleRateNB": 41.0291,
+				"purchaseRateNB": 41.0291
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 97965.59,
+				"purchaseRateNB": 97965.59
+			}
+		]
+	}
+]

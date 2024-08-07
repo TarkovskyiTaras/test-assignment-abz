@@ -1,0 +1,6 @@
+fetch_interval: "@every 10s"
+currencies:
+  - USD
+  - EUR
+  - UAH
+  - GBP
