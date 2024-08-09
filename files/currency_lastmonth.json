@@ -3581,6 +3581,33 @@
 		"baseCurrencyLit": "UAH",
 		"exchangeRate": [
 			{
+				"currency": "TRY",
+				"saleRateNB": 1.254,
+				"purchaseRateNB": 1.254
+			},
+			{
+				"currency": "UAH",
+				"saleRateNB": 1,
+				"purchaseRateNB": 1
+			},
+			{
+				"currency": "USD",
+				"saleRate": 41.58,
+				"purchaseRate": 40.98,
+				"saleRateNB": 41.2174,
+				"purchaseRateNB": 41.2174
+			},
+			{
+				"currency": "UZS",
+				"saleRateNB": 0.0032215,
+				"purchaseRateNB": 0.0032215
+			},
+			{
+				"currency": "XAU",
+				"saleRateNB": 99624.1,
+				"purchaseRateNB": 99624.1
+			},
+			{
 				"currency": "AUD",
 				"saleRateNB": 27.2282,
 				"purchaseRateNB": 27.2282
@@ -3694,33 +3721,6 @@
 				"currency": "TMT",
 				"saleRateNB": 11.5583,
 				"purchaseRateNB": 11.5583
-			},
-			{
-				"currency": "TRY",
-				"saleRateNB": 1.254,
-				"purchaseRateNB": 1.254
-			},
-			{
-				"currency": "UAH",
-				"saleRateNB": 1,
-				"purchaseRateNB": 1
-			},
-			{
-				"currency": "USD",
-				"saleRate": 41.58,
-				"purchaseRate": 40.98,
-				"saleRateNB": 41.2174,
-				"purchaseRateNB": 41.2174
-			},
-			{
-				"currency": "UZS",
-				"saleRateNB": 0.0032215,
-				"purchaseRateNB": 0.0032215
-			},
-			{
-				"currency": "XAU",
-				"saleRateNB": 99624.1,
-				"purchaseRateNB": 99624.1
 			}
 		]
 	},
